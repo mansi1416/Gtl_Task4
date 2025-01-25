@@ -1,0 +1,33 @@
+.navbar-nav .nav-link {
+    font-weight: medium;
+    font-size: 20px;
+}
+
+.carousel-item img {
+    max-height: 500px;
+    width: 100%;
+    object-fit: fill;
+}
+
+.navbar .navbar-nav .nav-link,
+.navbar .navbar-brand {
+    color: white !important;
+}
+
+
+.navbar .dropdown-menu .dropdown-item {
+    color: rgb(12, 12, 12);
+}
+
+.text-border {
+    display: inline-block;
+    margin-left: 600px;
+    font-size: 20px;
+    background-color: #f8f9fa;
+    padding: 25px 25px 30px 20px;
+    height: 30px;
+    width: 100px;
+    border: 1px solid #007bff;
+    text-align: center;
+    border-radius: 4px;
+}
